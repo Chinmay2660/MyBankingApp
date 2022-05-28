@@ -6,7 +6,7 @@
 
 ## Screenshots!
 
-### Homescreen 
+### Home Screen 
 <img src="https://github.com/Chinmay2660/MyBankingApp/blob/master/images/Home%20Screen.jpeg" width ="250px" height ="450px"> 
 
 ------------------------------------------
@@ -41,7 +41,7 @@
 
 ------------------------------------------
 
-### Transaction History Showing Successfull & Cancelled Transactions
+### Transaction History Showing Successful & Cancelled Transactions
 <img src="https://user-images.githubusercontent.com/74097022/126522868-842334c7-540e-4c71-b8f4-4e1534695298.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
